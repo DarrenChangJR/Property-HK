@@ -1,0 +1,214 @@
+{
+    "Tuen Mun": {
+        "colour": "53,97,143",
+        "regions": [
+            "Tuen Mun Town Centre",
+            "Tai Hing",
+            "San Hui",
+            "Tuen Mun"
+        ]
+    },
+    "Yuen Long": {
+        "colour": "165,232,65",
+        "regions": [
+            "Yuen Long",
+            "Leung Tin",
+            "Hung Shui Kiu",
+            "Fairview Park",
+            "Tin Shui Wai",
+            "Lau Fau Shan",
+            "Kam Tin",
+            "Yuen Long Town"
+        ]
+    },
+    "Kowloon City": {
+        "colour": "135,66,226",
+        "regions": [
+            "Kowloon City",
+            "Ho Man Tin",
+            "To Kwa Wan",
+            "King's Park",
+            "Hung Hom",
+            "Beacon Hill",
+            "Kowloon Tong",
+            "Ma Tau Kok",
+            "Ma Tau Wai"
+        ]
+    },
+    "Eastern": {
+        "colour": "112,159,15",
+        "regions": [
+            "Shau Kei Wan",
+            "North Point",
+            "Quarry Bay",
+            "Chai Wan",
+            "Sai Wan Ho",
+            "Tin Hau",
+            "Siu Sai Wan",
+            "Braemar Hill",
+            "Tai Koo",
+            "Heng Fa Chuen"
+        ]
+    },
+    "Kwun Tong": {
+        "colour": "246,18,168",
+        "regions": [
+            "Yau Tong",
+            "Lam Tin",
+            "Jordan Valley",
+            "Sau Mau Ping",
+            "Cha Kwo Ling",
+            "Shun Lee",
+            "Ngau Tau Kok",
+            "Kwun Tong",
+            "Kowloon Bay"
+        ]
+    },
+    "Tai Po": {
+        "colour": "20,229,75",
+        "regions": [
+            "Ting Kok",
+            "Yuen Chau Kok",
+            "Lam Tsuen",
+            "Hong Lok Yuen",
+            "Tai Wo",
+            "Tai Po Old Market",
+            "Tai Po Market",
+            "Tai Po Town Centre",
+            "Tai Po"
+        ]
+    },
+    "Southern": {
+        "colour": "142,0,73",
+        "regions": [
+            "Tai Tam",
+            "Repulse Bay",
+            "Deep Water Bay",
+            "Chung Hom Kok",
+            "Wong Nai Chung Gap",
+            "Ap Lei Chau",
+            "Stanley",
+            "Wah Fu",
+            "So Kon Po",
+            "Cyberport",
+            "Wong Chuk Hang",
+            "Aberdeen",
+            "Pok Fu Lam"
+        ]
+    },
+    "Yau Tsim Mong": {
+        "colour": "102,220,169",
+        "regions": [
+            "Tsim Sha Tsui",
+            "Mong Kok",
+            "Yau Ma Tei",
+            "West Kowloon Reclamation Area"
+        ]
+    },
+    "Tsuen Wan": {
+        "colour": "241,67,48",
+        "regions": [
+            "Lam Tei",
+            "Sham Tseng",
+            "So Kwun Wat",
+            "Riviera Gardens",
+            "Ting Kau",
+            "Tsing Lung Tau",
+            "Tai Mo Shan",
+            "Siu Lam",
+            "Tsuen Wan"
+        ]
+    },
+    "Sham Shui Po": {
+        "colour": "75,214,253",
+        "regions": [
+            "Tai Kok Tsui",
+            "Sham Shui Po",
+            "Mei Foo",
+            "Lai Chi Kok",
+            "Shek Kip Mei",
+            "Cheung Sha Wan"
+        ]
+    },
+    "Sai Kung": {
+        "colour": "120,69,51",
+        "regions": [
+            "Sai Kung",
+            "Fei Ngo Shan",
+            "Kam Shan",
+            "Silverstrand Beach",
+            "Tseung Kwan O",
+            "Sai Kung Peninsula",
+            "Tseng Lan Shue",
+            "Tiu Keng Leng"
+        ]
+    },
+    "Sha Tin": {
+        "colour": "154,185,249",
+        "regions": [
+            "Fo Tan",
+            "Sha Tin",
+            "Tai Wai",
+            "Sha Tin Town Centre",
+            "City One",
+            "Ma On Shan"
+        ]
+    },
+    "Central and Western": {
+        "colour": "11,82,46",
+        "regions": [
+            "Sai Wan",
+            "Central",
+            "Jardine's Lookout",
+            "Sheung Wan",
+            "Kennedy Town",
+            "Mount Davis",
+            "Victoria Peak"
+        ]
+    },
+    "Kwai Chung": {
+        "colour": "246,160,186",
+        "regions": [
+            "Tsing Yi",
+            "Kwai Chung"
+        ]
+    },
+    "Wan Chai": {
+        "colour": "47,147,122",
+        "regions": [
+            "Wan Chai",
+            "Happy Valley",
+            "Tai Hang",
+            "Causeway Bay"
+        ]
+    },
+    "North": {
+        "colour": "247,147,2",
+        "regions": [
+            "Fan Ling",
+            "Fu Shin",
+            "Wo Hop Shek",
+            "Sheung Shui"
+        ]
+    },
+    "Wong Tai Sin": {
+        "colour": "119,105,205",
+        "regions": [
+            "Wong Tai Sin",
+            "Hammer Hill",
+            "Tsz Wan Shan",
+            "Lok Fu",
+            "Chuk Yuen",
+            "San Po Kong",
+            "Diamond Hill"
+        ]
+    },
+    "Islands": {
+        "colour": "225,215,116",
+        "regions": [
+            "Cheung Chau",
+            "Tung Chung",
+            "Ma Wan"
+        ]
+    }
+}
